@@ -65,4 +65,3 @@ The goal of this project is to evaluate and compare different LLMs based on:
 
 
 
-This project was created **for learning and academic purposes**.
